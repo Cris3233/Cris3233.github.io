@@ -1,0 +1,22 @@
+    body{
+        background-image: url("backgroundimg.jpg");
+    }
+    h1{
+        color: rgb(53, 73, 204);
+        font-family: cursive;
+    }
+    p{
+        color: rgb(53, 73, 204);
+        font-family: cursive;
+        font-size: larger;
+    }
+    #list{ 
+        color: rgb(53, 73, 204);
+        font-family: cursive;
+        font-size: larger;
+}
+    ol{
+        color: rgb(53, 73, 204);
+        font-family: cursive;
+        font-size: larger;
+    }
