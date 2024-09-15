@@ -2,21 +2,21 @@
         background-image: url("backgroundimg.jpg");
     }
     h1{
-        color: rgb(53, 73, 204);
-        font-family: sans-serif;
+        color: aliceblue;
+        font-family:'Times New Roman', Times, serif ;
     }
     p{
-        color: rgb(53, 73, 204);
-        font-family: sans-serif;
+        color: aliceblue;
+        font-family:'Times New Roman', Times, serif ;
         font-size: larger;
     }
     #list{ 
-        color: rgb(53, 73, 204);
-        font-family: sans-serif;
+        color: aliceblue;
+        font-family:'Times New Roman', Times, serif ;
         font-size: larger;
 }
     ol{
-        color: rgb(53, 73, 204);
-        font-family: sans-serif;
+        color: aliceblue;
+        font-family:'Times New Roman', Times, serif ;
         font-size: larger;
     }
