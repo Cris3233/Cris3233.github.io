@@ -20,3 +20,34 @@
         font-family:'Times New Roman', Times, serif ;
         font-size: 3ex;
     }
+    .banner {
+        width: 1200px;
+        margin: 2 auto;
+     }
+     .buttons {
+        width: 800px;
+        margin: 0 auto;
+     }
+     .aboutmepictures {
+        width:800px;
+        margin: 0% auto;
+     }
+     .headings {
+        width: 6500px;
+        margin: 0% auto;
+     }
+     .Paragraphs {
+        width: 800px;
+        margin: 2 auto;
+     }
+     .Paragraphs-2 {
+        width: 900px;
+     }
+     .lists {
+        width: 1200px;
+     }
+     .morepicturesaboutme{
+        width: 1200px;
+        margin: 2 auto;
+     }
+
